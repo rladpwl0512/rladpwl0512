@@ -26,3 +26,6 @@
     <a href='https://www.notion.so/Develope-study-0c070650fb38422a8958f50e18a38c8e'><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
     <a href="mailto:rladpwl0512@gmail.com"><img src="https://img.shields.io/badge/Gmail-purple?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
+<p align='center'>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frladpwl0512%2Fhit-counter&count_bg=%23FFBCD9&title_bg=%237C7C7C&icon=&icon_color=%23F3ABAE&title=hits&edge_flat=false"/></a>
+</p>
