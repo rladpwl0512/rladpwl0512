@@ -3,7 +3,7 @@
 <h3 align='center'>Welcome to my github!👋🏻</h3>
 <p align='center'>
     want to be ✨Web-frontend developer!<br>
-    want to be 📈Always growing up!<br>
+    want to be 📈Better than yesterday!<br>
     want to be 😇Positive influencer!
 </p>
 
