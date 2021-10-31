@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&customColorList=3,14,15,18,28&height=350&section=header&text=Hello%20I'm%20yeji&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&customColorList=3,14,15,18,28&height=350&section=header&text=Positive%20Influencer&fontSize=80&animation=twinkling)
 
 <h3 align='center'>Welcome to my github!👋🏻</h3>
 <p align='center'>
