@@ -23,7 +23,6 @@
 <h3 align='center'>My place🏠</h3>
 <p align='center'>
     <a href='https://velog.io/@rladpwl0512'><img src="https://img.shields.io/badge/Velog-22ca98?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
-    <a href='https://encouraging-stinger-a25.notion.site/6c50aae0f01847daab31fca4412399e1'><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
     <a href="mailto:rladpwl0512@gmail.com"><img src="https://img.shields.io/badge/Gmail-purple?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 <p align='center'>
