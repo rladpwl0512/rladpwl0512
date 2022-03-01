@@ -4,7 +4,7 @@
 <p align='center'>
     want to be ✨Web-frontend developer!<br>
     want to be 📈Better than yesterday!<br>
-    want to be 😇Positive influencer!
+    want to be 😇Positive influencer! 
 </p>
 
 <h3 align='center'>Tech Stack👩🏻‍💻</h3>
