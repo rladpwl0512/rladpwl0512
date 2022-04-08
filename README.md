@@ -7,7 +7,7 @@
     want to be 😇Positive influencer! 
 </p>
 
-<h3 align='center'>Tech Stack👩🏻‍💻</h3>
+<!-- <h3 align='center'>Tech Stack👩🏻‍💻</h3>
 <p align='center'>
     <img src="https://img.shields.io/badge/HTML-e85628?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/CSS-1d75b8?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Git-432f00?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/SQL Server-787676?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp 
-</p>
+</p> -->
 
 <h3 align='center'>My place🏠</h3>
 <p align='center'>
